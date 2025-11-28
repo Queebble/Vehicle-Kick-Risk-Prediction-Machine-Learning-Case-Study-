@@ -1,5 +1,3 @@
----
-
 # Vehicle Kick Risk Prediction (Machine Learning Case Study)
 
 This project develops a supervised machine learning workflow to predict **"kick" risk** (bad-buy likelihood) in automotive auctions.
@@ -45,10 +43,12 @@ It applies data cleaning, feature engineering, model tuning, and performance eva
 ## 📁 Files
 
 * `Vehicle Kick Risk Prediction.ipynb`: Full machine learning pipeline and analysis
-* Dataset provided via coursework (not included in repository)
+* Dataset files provided through coursework (not included in repository)
+
 
 ---
 
-Created as part of a machine learning coursework project, demonstrating model evaluation, feature engineering, and supervised learning workflows.
+Created as part of a machine learning coursework project, demonstrating skills in modern ML, NLP, time-series modelling, and unsupervised learning.
 
 ---
+
